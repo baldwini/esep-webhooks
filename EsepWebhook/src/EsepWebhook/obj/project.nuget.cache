@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aj8iXu0mtuk+fFgPTzv1P0IY4UrezGKVoT9kbnjLi52z+egEj2nLCMad559cuod16T+wM//MckMtGQdgDbV36A==",
+  "success": true,
+  "projectFilePath": "/home/baldwini/code/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/home/baldwini/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/home/baldwini/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/home/baldwini/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/baldwini/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/home/baldwini/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/baldwini/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.15/microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/home/baldwini/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/6.0.15/microsoft.netcore.app.crossgen2.linux-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
